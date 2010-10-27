@@ -11,7 +11,8 @@ public class NumbersParser {
 				return 2;
 			}
 			
-			if (lines[1].charAt(1) == ' ') {
+			if (true) {
+//				if (lines[1].charAt(1) == ' ') {
 				
 				if (lines[2].charAt(1) == ' ') {
 					return 7;
