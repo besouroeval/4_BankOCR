@@ -6,3 +6,10 @@ RefactoringAction 1288199216864 NumbersParsingTest.java ADD import org.junit.Tes
 EditAction 1288199218685 NumbersParsingTest.java 114 1 0 0
 RefactoringAction 1288199226941 NumbersParsingTest.java ADD import junit.framework.Assert IMPORT
 EditAction 1288199265842 NumbersParsingTest.java 215 1 2 1
+CompilationAction 1288199266020 NumbersParsingTest.java
+RefactoringAction 1288199275813 NumbersParser.java ADD NumbersParser.java CLASS
+CompilationAction 1288199275974 NumbersParsingTest.java
+FileOpenedAction 1288199276138 NumbersParser.java 33 0 0 0
+FileOpenedAction 1288199280800 NumbersParser.java 33 0 0 0
+RefactoringAction 1288199280858 NumbersParser.java ADD static Object parse(String) METHOD
+EditAction 1288199286933 NumbersParser.java 91 1 1 0
