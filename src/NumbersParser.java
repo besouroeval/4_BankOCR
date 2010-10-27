@@ -6,23 +6,30 @@ public class NumbersParser {
 		String[] lines = breakeLines(number);
 		
 		if (lines[0].charAt(1) == '_') {
-			
-			if (lines[2].charAt(0) == '|') {
-				if (lines[2].charAt(2) == '|') {
-					return 6;
+			if (lines[1].charAt(1) == ' ') {
+				return 7;
+				
+			} else {
+				
+				if (lines[2].charAt(0) == '|') {
+					if (lines[2].charAt(2) == '|') {
+						return 6;
+						
+					} else {
+						return 2;
+						
+					}
+					
+				} else if (lines[1].charAt(0) == '|') {
+					return 5;
 					
 				} else {
-					return 2;
+					return 3;
 					
 				}
 				
-			} else if (lines[1].charAt(0) == '|') {
-				return 5;
-				
-			} else {
-				return 3;
-				
 			}
+			
 			
 		} else {
 			
