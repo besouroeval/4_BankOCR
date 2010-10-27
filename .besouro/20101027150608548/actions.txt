@@ -120,3 +120,6 @@ RefactoringAction 1288200421261 NumbersParsingTest.java ADD void shouldParse7()/
 RefactoringAction 1288200424276 NumbersParsingTest.java RENAME shouldParse7()/2=>void shouldParse8() METHOD
 EditAction 1288200436949 NumbersParsingTest.java 1438 8 16 8
 EditAction 1288200439583 NumbersParsingTest.java 1438 8 16 8
+UnitTestCaseAction 1288200445701 NumbersParsingTest.java FAIL
+UnitTestSessionAction 1288200445701 NumbersParsingTest.java FAIL
+EditAction 1288200460925 NumbersParser.java 917 2 7 0

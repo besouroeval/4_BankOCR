@@ -14,7 +14,12 @@ public class NumbersParser {
 				
 				if (lines[2].charAt(0) == '|') {
 					if (lines[2].charAt(2) == '|') {
-						return 6;
+						if (lines[2].charAt(2) == '|') {
+							
+						} else {
+							return 6;
+							
+						}
 						
 					} else {
 						return 2;
