@@ -126,6 +126,17 @@ public class NumbersParsingTest {
 		
 	}
 	
+	@Test
+	public void shouldParseFourDigits() {
+		
+		String number = " _  _ \n" 
+			+ "|_||_|\n"
+			+ "|_||_|\n";
+		
+		Assert.assertEquals(88, NumbersParser.parse(number));
+		
+	}
+	
 	
 
 }
