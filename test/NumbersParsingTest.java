@@ -49,5 +49,16 @@ public class NumbersParsingTest {
 		
 	}
 	
+	@Test
+	public void shouldParse5() {
+		
+		String number = " _ \n" 
+					  + "|_ \n"
+					  + " _|\n";
+		
+		Assert.assertEquals(4, NumbersParser.parse(number));
+		
+	}
+	
 
 }
