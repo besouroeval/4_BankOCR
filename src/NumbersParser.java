@@ -80,6 +80,11 @@ public class NumbersParser {
 		int qtdDigits = number.indexOf("\n")/3;
 		
 		String[][] lines = new String[qtdDigits][3];
+		
+		for (int i=0 ; i<qtdDigits ; i++) {
+			
+		}
+		
 		lines[0][0] = number.substring(0,3);
 		lines[0][1] = number.substring(4,7);
 		lines[0][2] = number.substring(8,11);
