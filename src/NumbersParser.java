@@ -12,11 +12,11 @@ public class NumbersParser {
 				
 			} else if (lines[1].charAt(1) == ' ') {
 				
-				if (lines[2].charAt(1) == ' ') {
-					return 7;
+				if (lines[2].charAt(1) == '_') {
+					return 0;
 					
 				} else {
-					return 0;
+					return 7;
 					
 				}
 					
