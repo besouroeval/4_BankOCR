@@ -206,3 +206,4 @@ RefactoringAction 1288201595992 NumbersParsingTest.java ADD void shouldParse0()/
 RefactoringAction 1288201602022 NumbersParsingTest.java RENAME shouldParse0()/2=>void shouldParseTW() METHOD
 EditAction 1288201604066 NumbersParsingTest.java 1944 11 22 11
 EditAction 1288201637901 NumbersParsingTest.java 1961 11 22 11
+EditAction 1288201640377 NumbersParsingTest.java 1962 11 22 11

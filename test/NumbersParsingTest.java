@@ -122,7 +122,7 @@ public class NumbersParsingTest {
 					  + "|_||_|\n"
 					  + "|_||_|\n";
 		
-		Assert.assertEquals(0, NumbersParser.parse(number));
+		Assert.assertEquals(88, NumbersParser.parse(number));
 		
 	}
 	
