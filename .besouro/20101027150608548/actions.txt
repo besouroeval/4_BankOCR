@@ -99,3 +99,6 @@ EditAction 1288200050776 NumbersParser.java 736 2 7 0
 UnitTestCaseAction 1288200053686 NumbersParsingTest.java FAIL
 UnitTestSessionAction 1288200053686 NumbersParsingTest.java FAIL
 EditAction 1288200066148 NumbersParser.java 736 2 7 0
+UnitTestCaseAction 1288200068627 NumbersParsingTest.java OK
+UnitTestSessionAction 1288200068628 NumbersParsingTest.java OK
+EditAction 1288200266317 NumbersParser.java 736 2 7 0
