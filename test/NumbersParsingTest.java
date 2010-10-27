@@ -23,7 +23,7 @@ public class NumbersParsingTest {
 					  + "  |\n"
 					  + "  |\n";
 		
-		Assert.assertEquals(1, NumbersParser.parse(number));
+		Assert.assertEquals(2, NumbersParser.parse(number));
 		
 	}
 }
