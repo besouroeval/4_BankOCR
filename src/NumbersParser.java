@@ -6,6 +6,7 @@ public class NumbersParser {
 		String[] lines = breakeLines(number);
 		
 		if (lines[0].charAt(1) == '_') {
+			
 			if (lines[1].charAt(1) == ' ') {
 				return 7;
 				
