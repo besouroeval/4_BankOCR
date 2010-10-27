@@ -56,3 +56,4 @@ UnitTestCaseAction 1288199647089 NumbersParsingTest.java OK
 UnitTestSessionAction 1288199647090 NumbersParsingTest.java OK
 RefactoringAction 1288199659461 NumbersParser.java ADD static String METHOD
 EditAction 1288199659466 NumbersParser.java 476 2 8 0
+EditAction 1288199661765 NumbersParser.java 473 2 8 0

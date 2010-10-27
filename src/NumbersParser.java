@@ -3,7 +3,6 @@ public class NumbersParser {
 
 	public static int parse(String number) {
 		String[] lines = breakeLines(number);
-		
 		if (lines[0].charAt(1) == '_') {
 			if (lines[2].charAt(0) == '|') {
 				return 2;
