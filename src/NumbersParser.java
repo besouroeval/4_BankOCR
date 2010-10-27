@@ -29,6 +29,8 @@ public class NumbersParser {
 								
 							}
 							
+						} else {
+							return 0;
 						}
 						
 					} else if (lines[1].charAt(0) == '|') {
