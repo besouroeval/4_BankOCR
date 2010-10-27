@@ -8,7 +8,14 @@ public class NumbersParser {
 		if (lines[0].charAt(1) == '_') {
 			
 			if (lines[1].charAt(1) == ' ') {
-				return 7;
+				if (lines[1].charAt(1) == ' ') {
+					return 7;
+					
+				} else {
+					return 7;
+					
+				}
+					
 				
 			} else {
 				
