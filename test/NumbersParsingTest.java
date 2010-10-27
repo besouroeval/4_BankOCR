@@ -39,7 +39,7 @@ public class NumbersParsingTest {
 	}
 
 	@Test
-	public void shouldParse3() {
+	public void shouldParse4() {
 		
 		String number = "   \n" 
 					  + "|_|\n"
