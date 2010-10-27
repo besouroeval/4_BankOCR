@@ -23,7 +23,6 @@ public class NumbersParser {
 					
 				
 			} else {
-				
 					
 				if (lines[2].charAt(0) == '|') {
 							
