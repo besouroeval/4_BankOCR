@@ -27,3 +27,6 @@ RefactoringAction 1288199366321 NumbersParsingTest.java RENAME shouldParse1()/2=
 EditAction 1288199367611 NumbersParsingTest.java 429 2 4 2
 EditAction 1288199369629 NumbersParsingTest.java 429 2 4 2
 EditAction 1288199390849 NumbersParsingTest.java 429 2 4 2
+UnitTestCaseAction 1288199393248 NumbersParsingTest.java FAIL
+UnitTestSessionAction 1288199393249 NumbersParsingTest.java FAIL
+EditAction 1288199418634 NumbersParser.java 140 1 0 0
