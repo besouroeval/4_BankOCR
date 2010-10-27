@@ -26,7 +26,12 @@ public class NumbersParser {
 					}
 						
 				} else if (lines[1].charAt(0) == '|') {
-					return 5;
+					if (lines[1].charAt(2) == '|') {
+						return 5;
+					} else {
+						return 5;
+						
+					}
 					
 				} else {
 					return 3;
