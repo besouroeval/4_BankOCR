@@ -4,3 +4,5 @@ RefactoringAction 1288199208786 NumbersParsingTest.java ADD void shouldParse FIE
 RefactoringAction 1288199211296 NumbersParsingTest.java RENAME shouldParse=>void shouldParse1() METHOD
 RefactoringAction 1288199216864 NumbersParsingTest.java ADD import org.junit.Test IMPORT
 EditAction 1288199218685 NumbersParsingTest.java 114 1 0 0
+RefactoringAction 1288199226941 NumbersParsingTest.java ADD import junit.framework.Assert IMPORT
+EditAction 1288199265842 NumbersParsingTest.java 215 1 2 1
