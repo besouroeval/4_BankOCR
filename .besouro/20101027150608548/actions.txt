@@ -196,3 +196,6 @@ EditAction 1288201339257 NumbersParser.java 1086 2 7 0
 EditAction 1288201386637 NumbersParser.java 1104 2 7 0
 EditAction 1288201443842 NumbersParser.java 1084 2 7 0
 EditAction 1288201446304 NumbersParser.java 1089 2 7 0
+UnitTestCaseAction 1288201449058 NumbersParsingTest.java OK
+UnitTestSessionAction 1288201449058 NumbersParsingTest.java OK
+EditAction 1288201471166 NumbersParser.java 1096 2 7 0

@@ -37,6 +37,7 @@ public class NumbersParser {
 					
 					if (lines[1].charAt(2) == '|') {
 						return 9;
+						
 					} else {
 						return 5;
 						
