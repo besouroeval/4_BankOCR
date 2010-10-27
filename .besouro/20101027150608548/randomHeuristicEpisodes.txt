@@ -10,6 +10,7 @@
 1288200278245 refactoring null 11 true
 1288200408400 test-first 3 90 true
 1288200476203 test-first 3 63 true
-1288200898772 refactoring 2A 258 false
+1288200898772 refactoring 2A 258 true
 1288200915148 refactoring 2A 3 true
-1288200962963 refactoring 2A 38 false
+1288200962963 refactoring 2A 38 true
+1288201155730 test-first 3 70 true
