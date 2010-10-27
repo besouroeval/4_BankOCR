@@ -18,3 +18,5 @@ CompilationAction 1288199331104 NumbersParsingTest.java
 UnitTestCaseAction 1288199341813 NumbersParsingTest.java FAIL
 UnitTestSessionAction 1288199341814 NumbersParsingTest.java FAIL
 EditAction 1288199347744 NumbersParsingTest.java 263 1 2 1
+FileOpenedAction 1288199349670 NumbersParser.java 91 1 1 0
+EditAction 1288199352354 NumbersParser.java 91 1 1 0
