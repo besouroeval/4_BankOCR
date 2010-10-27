@@ -158,3 +158,6 @@ CompilationAction 1288200943715 NumbersParser.java
 CompilationAction 1288200943715 NumbersParser.java
 CompilationAction 1288200943715 NumbersParser.java
 EditAction 1288200959665 NumbersParser.java 922 2 7 0
+UnitTestCaseAction 1288200962963 NumbersParsingTest.java OK
+UnitTestSessionAction 1288200962963 NumbersParsingTest.java OK
+EditAction 1288201084800 NumbersParser.java 908 2 7 0
