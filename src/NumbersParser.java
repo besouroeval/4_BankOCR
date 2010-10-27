@@ -9,10 +9,7 @@ public class NumbersParser {
 		
 			if (lines[2].charAt(2) == ' ') {
 				return 2;
-			}
-			
-			if (true) {
-//				if (lines[1].charAt(1) == ' ') {
+			} else if (lines[1].charAt(1) == ' ') {
 				
 				if (lines[2].charAt(1) == ' ') {
 					return 7;
