@@ -84,7 +84,7 @@ public class NumbersParser {
 		
 		
 		for (int i = 0; i < 3; i++) {
-			for (int i=0 ; i<qtdDigits ; i++) {
+			for (int j=0 ; j<qtdDigits ; j++) {
 				
 			}
 			
