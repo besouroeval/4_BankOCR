@@ -9,10 +9,10 @@ public class NumbersParser {
 			
 			if (lines[2].charAt(0) == '|') {
 				if (lines[1].charAt(2) == '|') {
-					return 6;
+					return 2;
 					
 				} else {
-					return 2;
+					return 6;
 					
 				}
 				
