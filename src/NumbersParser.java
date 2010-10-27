@@ -1,3 +1,5 @@
+import java.util.StringTokenizer;
+
 
 public class NumbersParser {
 
@@ -81,6 +83,8 @@ public class NumbersParser {
 		int qtdDigits = lineLength/3;
 		
 		String[][] lines = new String[qtdDigits][3];
+		
+		StringTokenizer tok = new StringTokenizer(number, "\n", false);
 		
 		for (int i = 0; i < 3; i++) {
 			for (int j=0 ; j<qtdDigits ; j++) {
