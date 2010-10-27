@@ -6,6 +6,10 @@ public class NumbersParser {
 		String[] lines = breakeLines(number);
 		
 		if (lines[0].charAt(1) == '_') {
+		
+			if (lines[2].charAt(2) == ' ') {
+				return 2;
+			}
 			
 			if (lines[1].charAt(1) == ' ') {
 				
