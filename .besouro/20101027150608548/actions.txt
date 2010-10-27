@@ -293,3 +293,6 @@ RefactoringAction 1288202742459 NumbersParsingTest.java ADD void shouldParseTwoD
 RefactoringAction 1288202747474 NumbersParsingTest.java RENAME shouldParseTwoDigits()/2=>void shouldParsefDigits() METHOD
 EditAction 1288202749330 NumbersParsingTest.java 2141 12 24 12
 EditAction 1288202789368 NumbersParsingTest.java 2169 12 24 12
+UnitTestCaseAction 1288202792266 NumbersParsingTest.java OK
+UnitTestSessionAction 1288202792266 NumbersParsingTest.java OK
+EditAction 1288202811653 NumbersParser.java 1592 3 12 0
