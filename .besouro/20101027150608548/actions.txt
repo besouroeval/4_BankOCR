@@ -85,3 +85,8 @@ UnitTestCaseAction 1288199846575 NumbersParsingTest.java FAIL
 UnitTestSessionAction 1288199846576 NumbersParsingTest.java FAIL
 EditAction 1288199881456 NumbersParser.java 652 2 7 0
 EditAction 1288199914282 NumbersParser.java 652 2 7 0
+UnitTestCaseAction 1288199938636 NumbersParsingTest.java OK
+UnitTestSessionAction 1288199938636 NumbersParsingTest.java OK
+RefactoringAction 1288199953283 NumbersParsingTest.java ADD void shouldParse5()/2 METHOD
+RefactoringAction 1288199956796 NumbersParsingTest.java RENAME shouldParse5()/2=>void shouldParse6() METHOD
+EditAction 1288199965846 NumbersParsingTest.java 1102 6 12 6

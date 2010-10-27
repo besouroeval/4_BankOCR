@@ -60,5 +60,16 @@ public class NumbersParsingTest {
 		
 	}
 	
+	@Test
+	public void shouldParse6() {
+		
+		String number = " _ \n" 
+					  + "|_ \n"
+					  + "|_|\n";
+		
+		Assert.assertEquals(5, NumbersParser.parse(number));
+		
+	}
+	
 
 }
