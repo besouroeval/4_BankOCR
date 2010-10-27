@@ -10,8 +10,10 @@ public class NumbersParser {
 				return 3;
 				
 			}
+		} else {
+			return 1;
+			
 		}
-		return 1;
 	}
 
 	private static String[] breakeLines(String number) {
