@@ -9,7 +9,7 @@ public class NumbersParser {
 		int position = 1;
 		int parsed = 0;
 		for (int i = digits.length-1; i >= 0; i--) {
-			parser = position * parseOneDigit(lines);
+			parsed = position * parseOneDigit(digits[i]);
 			position *= 10;
 		}
 		
