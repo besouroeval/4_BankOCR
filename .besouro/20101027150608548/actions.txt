@@ -213,3 +213,11 @@ EditAction 1288201675600 NumbersParsingTest.java 1964 11 22 11
 UnitTestCaseAction 1288201678942 NumbersParsingTest.java OK
 UnitTestSessionAction 1288201678943 NumbersParsingTest.java OK
 EditAction 1288201776145 NumbersParser.java 1100 2 7 0
+CompilationAction 1288201776369 NumbersParser.java
+CompilationAction 1288201776370 NumbersParser.java
+CompilationAction 1288201800835 NumbersParser.java
+CompilationAction 1288201800995 NumbersParser.java
+CompilationAction 1288201800995 NumbersParser.java
+CompilationAction 1288201806674 NumbersParser.java
+CompilationAction 1288201806828 NumbersParser.java
+EditAction 1288201815537 NumbersParser.java 1106 2 7 0

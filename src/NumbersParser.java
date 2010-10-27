@@ -64,11 +64,11 @@ public class NumbersParser {
 	}
 
 	private static String[][] breakeLines(String number) {
-		String[] lines = new String[3];
+		String[][] lines = new String[1][3];
 		lines[0] = number.substring(0,3);
 		lines[1] = number.substring(4,7);
 		lines[2] = number.substring(8,11);
-		return lines;
+		return digits;
 	}
 
 }
