@@ -77,7 +77,7 @@ public class NumbersParser {
 
 	private static String[][] breakeLines(String number) {
 		
-		int qtdDigits = number.indexOf("\n");
+		int qtdDigits = number.indexOf("\n")/3;
 		
 		String[][] lines = new String[1][3];
 		lines[0][0] = number.substring(0,3);
