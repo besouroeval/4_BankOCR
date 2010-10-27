@@ -25,4 +25,5 @@
 1288202021550 refactoring 2A 123 true
 1288202030047 regression 1 0 true
 1288202639130 refactoring 3 600 true
-1288202792266 test-addition 1 49 false
+1288202792266 test-addition 1 49 true
+1288202813945 refactoring 2A 2 true
