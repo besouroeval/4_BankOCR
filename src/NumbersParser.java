@@ -87,6 +87,7 @@ public class NumbersParser {
 		StringTokenizer tok = new StringTokenizer(number, "\n", false);
 		
 		for (int i = 0; i < 3; i++) {
+			String line = tok.nextToken();
 			for (int j=0 ; j<qtdDigits ; j++) {
 				lines[j][i] = number.substring(0+3*i, 3+3*i);
 			}
