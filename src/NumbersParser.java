@@ -2,8 +2,11 @@
 public class NumbersParser {
 
 	public static int parse(String number) {
+		
 		String[] lines = breakeLines(number);
+		
 		if (lines[0].charAt(1) == '_') {
+			
 			if (lines[2].charAt(0) == '|') {
 				return 2;
 				
@@ -11,7 +14,9 @@ public class NumbersParser {
 				return 3;
 				
 			}
+			
 		} else {
+			
 			if (lines[1].charAt(1) == '_') {
 				return 4;
 				
