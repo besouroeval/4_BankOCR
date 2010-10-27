@@ -1,0 +1,6 @@
+RefactoringAction 1288199196791 NumbersParsingTest.java ADD NumbersParsingTest.java CLASS
+FileOpenedAction 1288199198268 NumbersParsingTest.java 38 0 0 0
+RefactoringAction 1288199208786 NumbersParsingTest.java ADD void shouldParse FIELD
+RefactoringAction 1288199211296 NumbersParsingTest.java RENAME shouldParse=>void shouldParse1() METHOD
+RefactoringAction 1288199216864 NumbersParsingTest.java ADD import org.junit.Test IMPORT
+EditAction 1288199218685 NumbersParsingTest.java 114 1 0 0
