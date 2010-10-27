@@ -30,7 +30,7 @@ public class NumbersParser {
 							}
 							
 						} else {
-							return 0;
+							return -1;
 						}
 						
 					} else if (lines[1].charAt(0) == '|') {
