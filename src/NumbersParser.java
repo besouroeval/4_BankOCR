@@ -6,6 +6,7 @@ public class NumbersParser {
 		if (lines[0].charAt(1) == '_') {
 			if (lines[2].charAt(0) == '|') {
 				return 2;
+				
 			} else {
 				return 3;
 				
@@ -13,6 +14,7 @@ public class NumbersParser {
 		} else {
 			if (lines[1].charAt(1) == '_') {
 				return 4;
+				
 			} else {
 				return 1;
 				
