@@ -67,7 +67,7 @@ public class NumbersParsingTest {
 					  + "|_ \n"
 					  + "|_|\n";
 		
-		Assert.assertEquals(5, NumbersParser.parse(number));
+		Assert.assertEquals(6, NumbersParser.parse(number));
 		
 	}
 	
