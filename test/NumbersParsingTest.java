@@ -104,5 +104,16 @@ public class NumbersParsingTest {
 		
 	}
 	
+	@Test
+	public void shouldParse0() {
+		
+		String number = " _ \n" 
+					  + "| |\n"
+					  + "|_|\n";
+		
+		Assert.assertEquals(9, NumbersParser.parse(number));
+		
+	}
+	
 
 }
