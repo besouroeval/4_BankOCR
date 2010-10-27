@@ -115,5 +115,17 @@ public class NumbersParsingTest {
 		
 	}
 	
+	@Test
+	public void shouldParseTwoDigits() {
+		
+		String number = " _ \n" 
+			+ "| |\n"
+			+ "|_|\n";
+		
+		Assert.assertEquals(0, NumbersParser.parse(number));
+		
+	}
+	
+	
 
 }
