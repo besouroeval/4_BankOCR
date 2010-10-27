@@ -6,8 +6,9 @@ public class NumbersParser {
 		lines[0] = number.substring(0,3);
 		lines[1] = number.substring(4,7);
 		lines[2] = number.substring(8,11);
-		if (number.charAt(1) == '_') {
-			if (number.charAt(8) == '|') {
+		
+		if (lines[0].charAt(1) == '_') {
+			if (lines[2].charAt(0) == '|') {
 				return 2;
 			} else {
 				return 3;
