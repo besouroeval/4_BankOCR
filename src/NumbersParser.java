@@ -83,6 +83,7 @@ public class NumbersParser {
 		lines[0][0] = number.substring(0,3);
 		lines[0][1] = number.substring(4,7);
 		lines[0][2] = number.substring(8,11);
+		
 		return lines;
 	}
 
