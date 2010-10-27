@@ -6,6 +6,7 @@ public class NumbersParser {
 		String[][] digits = breakeLines(number);
 		String[] lines = digits[0];
 		
+		int position = 1;
 		for (int i = digits.length-1; i >= 0; i--) {
 			
 		}
