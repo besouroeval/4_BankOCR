@@ -12,6 +12,11 @@ public class NumbersParser {
 				
 			} else {
 				
+				if (lines[2].charAt(0) == ' ') {
+					return 2;
+					
+				}
+				
 				if (lines[2].charAt(0) == '|') {
 					
 					if (lines[2].charAt(2) == '|') {
@@ -23,9 +28,6 @@ public class NumbersParser {
 							return 6;
 							
 						}
-						
-					} else {
-						return 2;
 						
 					}
 					

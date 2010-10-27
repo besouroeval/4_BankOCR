@@ -129,3 +129,4 @@ EditAction 1288200472382 NumbersParser.java 934 2 7 0
 UnitTestCaseAction 1288200476203 NumbersParsingTest.java OK
 UnitTestSessionAction 1288200476203 NumbersParsingTest.java OK
 EditAction 1288200639989 NumbersParser.java 947 2 7 0
+EditAction 1288200699398 NumbersParser.java 979 2 7 0
