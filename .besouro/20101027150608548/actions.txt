@@ -61,3 +61,5 @@ UnitTestCaseAction 1288199664470 NumbersParsingTest.java OK
 UnitTestSessionAction 1288199664470 NumbersParsingTest.java OK
 RefactoringAction 1288199692875 NumbersParsingTest.java ADD void shouldParse3()/2 METHOD
 EditAction 1288199705134 NumbersParsingTest.java 766 4 8 4
+CompilationAction 1288199705362 NumbersParsingTest.java
+EditAction 1288199709298 NumbersParsingTest.java 766 4 8 4
