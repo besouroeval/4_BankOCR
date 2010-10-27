@@ -129,11 +129,11 @@ public class NumbersParsingTest {
 	@Test
 	public void shouldParseFourDigits() {
 		
-		String number = " _  _ \n" 
-			+ "|_||_|\n"
-			+ "|_||_|\n";
+		String number = "    _  _  _ \n" 
+					  + "  |  ||_  _|\n"
+					  + "  |  | _||_ \n";
 		
-		Assert.assertEquals(88, NumbersParser.parse(number));
+		Assert.assertEquals(1752, NumbersParser.parse(number));
 		
 	}
 	
