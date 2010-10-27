@@ -20,3 +20,8 @@ UnitTestSessionAction 1288199341814 NumbersParsingTest.java FAIL
 EditAction 1288199347744 NumbersParsingTest.java 263 1 2 1
 FileOpenedAction 1288199349670 NumbersParser.java 91 1 1 0
 EditAction 1288199352354 NumbersParser.java 91 1 1 0
+UnitTestCaseAction 1288199354826 NumbersParsingTest.java OK
+UnitTestSessionAction 1288199354827 NumbersParsingTest.java OK
+RefactoringAction 1288199362807 NumbersParsingTest.java ADD void shouldParse1()/2 METHOD
+RefactoringAction 1288199366321 NumbersParsingTest.java RENAME shouldParse1()/2=>void shouldParse2() METHOD
+EditAction 1288199367611 NumbersParsingTest.java 429 2 4 2
