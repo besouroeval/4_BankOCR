@@ -68,3 +68,4 @@ EditAction 1288199717997 NumbersParsingTest.java 766 4 8 4
 UnitTestCaseAction 1288199721057 NumbersParsingTest.java FAIL
 UnitTestSessionAction 1288199721058 NumbersParsingTest.java FAIL
 EditAction 1288199737874 NumbersParser.java 489 2 7 0
+EditAction 1288199763229 NumbersParser.java 543 2 5 0

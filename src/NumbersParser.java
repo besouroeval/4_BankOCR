@@ -11,6 +11,9 @@ public class NumbersParser {
 				
 			}
 		} else {
+			if (lines[1].charAt(1) == '_') {
+				return 4
+			}
 			return 1;
 			
 		}
