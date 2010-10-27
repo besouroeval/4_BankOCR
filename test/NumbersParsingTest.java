@@ -26,4 +26,17 @@ public class NumbersParsingTest {
 		Assert.assertEquals(2, NumbersParser.parse(number));
 		
 	}
+
+	@Test
+	public void shouldParse3() {
+		
+		String number = " _ \n" 
+					  + " _|\n"
+					  + " _|\n";
+		
+		Assert.assertEquals(3, NumbersParser.parse(number));
+		
+	}
+
+
 }
