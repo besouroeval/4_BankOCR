@@ -3,8 +3,13 @@ public class NumbersParser {
 
 	public static int parse(String number) {
 		
-		String[][] lines = breakeLines(number);
+		String[][] digits = breakeLines(number);
+		String[] lines = digits[0];
 		
+		return parseOneDigit(lines);
+	}
+
+	private static int parseOneDigit(String[] lines) {
 		if (lines[0].charAt(1) == '_') {
 		
 			if (lines[2].charAt(2) == ' ') {
@@ -65,10 +70,10 @@ public class NumbersParser {
 
 	private static String[][] breakeLines(String number) {
 		String[][] lines = new String[1][3];
-		lines[0] = number.substring(0,3);
-		lines[1] = number.substring(4,7);
-		lines[2] = number.substring(8,11);
-		return digits;
+		lines[0][0] = number.substring(0,3);
+		lines[0][1] = number.substring(4,7);
+		lines[0][2] = number.substring(8,11);
+		return lines;
 	}
 
 }

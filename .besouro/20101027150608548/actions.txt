@@ -221,3 +221,17 @@ CompilationAction 1288201800995 NumbersParser.java
 CompilationAction 1288201806674 NumbersParser.java
 CompilationAction 1288201806828 NumbersParser.java
 EditAction 1288201815537 NumbersParser.java 1106 2 7 0
+CompilationAction 1288201815716 NumbersParser.java
+CompilationAction 1288201815716 NumbersParser.java
+CompilationAction 1288201815716 NumbersParser.java
+CompilationAction 1288201822591 NumbersParser.java
+CompilationAction 1288201822592 NumbersParser.java
+CompilationAction 1288201822760 NumbersParser.java
+CompilationAction 1288201822760 NumbersParser.java
+CompilationAction 1288201827229 NumbersParser.java
+CompilationAction 1288201827387 NumbersParser.java
+CompilationAction 1288201842778 NumbersParser.java
+UnitTestCaseAction 1288201846266 NumbersParsingTest.java OK
+UnitTestSessionAction 1288201846266 NumbersParsingTest.java OK
+RefactoringAction 1288201867255 NumbersParser.java ADD static int parseOneDigit(String METHOD
+EditAction 1288201867259 NumbersParser.java 1232 3 9 0
