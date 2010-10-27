@@ -161,3 +161,6 @@ EditAction 1288200959665 NumbersParser.java 922 2 7 0
 UnitTestCaseAction 1288200962963 NumbersParsingTest.java OK
 UnitTestSessionAction 1288200962963 NumbersParsingTest.java OK
 EditAction 1288201084800 NumbersParser.java 908 2 7 0
+RefactoringAction 1288201092916 NumbersParsingTest.java ADD void shouldParse8()/2 METHOD
+RefactoringAction 1288201095939 NumbersParsingTest.java RENAME shouldParse8()/2=>void shouldParse9() METHOD
+EditAction 1288201100914 NumbersParsingTest.java 1606 9 18 9
