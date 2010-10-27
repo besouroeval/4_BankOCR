@@ -15,7 +15,8 @@
 1288200962963 refactoring 2A 38 true
 1288201155730 test-first 3 70 true
 1288201221033 test-first 3 61 true
-1288201324770 refactoring 2A 78 false
+1288201324770 refactoring 2A 78 true
 1288201335744 refactoring 2A 2 true
-1288201449058 refactoring 2A 109 false
+1288201449058 refactoring 2A 109 true
 1288201564550 refactoring 2A 93 true
+1288201678943 test-addition 2 82 false
