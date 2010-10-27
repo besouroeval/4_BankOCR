@@ -7,6 +7,7 @@ public class NumbersParser {
 		String[] lines = digits[0];
 		
 		return parseOneDigit(lines);
+		
 	}
 
 	private static int parseOneDigit(String[] lines) {
