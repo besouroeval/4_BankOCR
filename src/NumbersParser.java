@@ -18,21 +18,15 @@ public class NumbersParser {
 				} else {
 					
 					if (lines[2].charAt(0) == '|') {
-						
-//						if (lines[2].charAt(2) == '|') {
 							
-							if (lines[1].charAt(2) == '|') {
-								return 8;
-								
-							} else {
-								return 6;
-								
-							}
+						if (lines[1].charAt(2) == '|') {
+							return 8;
 							
-//						} else {
-//							return -1;
-//						}
-						
+						} else {
+							return 6;
+							
+						}
+							
 					} else if (lines[1].charAt(0) == '|') {
 						return 5;
 						
