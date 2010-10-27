@@ -164,3 +164,4 @@ EditAction 1288201084800 NumbersParser.java 908 2 7 0
 RefactoringAction 1288201092916 NumbersParsingTest.java ADD void shouldParse8()/2 METHOD
 RefactoringAction 1288201095939 NumbersParsingTest.java RENAME shouldParse8()/2=>void shouldParse9() METHOD
 EditAction 1288201100914 NumbersParsingTest.java 1606 9 18 9
+EditAction 1288201103773 NumbersParsingTest.java 1606 9 18 9

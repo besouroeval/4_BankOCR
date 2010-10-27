@@ -100,7 +100,7 @@ public class NumbersParsingTest {
 					  + "|_|\n"
 					  + " _|\n";
 		
-		Assert.assertEquals(8, NumbersParser.parse(number));
+		Assert.assertEquals(9, NumbersParser.parse(number));
 		
 	}
 	
