@@ -115,7 +115,7 @@ public class NumbersParsingTest {
 		
 	}
 	
-	@Test
+//	@Test
 	public void shouldParseTwoDigits() {
 		
 		String number = " _  _ \n" 

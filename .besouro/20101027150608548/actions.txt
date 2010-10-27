@@ -207,3 +207,6 @@ RefactoringAction 1288201602022 NumbersParsingTest.java RENAME shouldParse0()/2=
 EditAction 1288201604066 NumbersParsingTest.java 1944 11 22 11
 EditAction 1288201637901 NumbersParsingTest.java 1961 11 22 11
 EditAction 1288201640377 NumbersParsingTest.java 1962 11 22 11
+UnitTestCaseAction 1288201650953 NumbersParsingTest.java FAIL
+UnitTestSessionAction 1288201650953 NumbersParsingTest.java FAIL
+EditAction 1288201675600 NumbersParsingTest.java 1964 11 22 11
