@@ -71,5 +71,16 @@ public class NumbersParsingTest {
 		
 	}
 	
+	@Test
+	public void shouldParse7() {
+		
+		String number = " _ \n" 
+					  + "  |\n"
+					  + "  |\n";
+		
+		Assert.assertEquals(7, NumbersParser.parse(number));
+		
+	}
+	
 
 }
