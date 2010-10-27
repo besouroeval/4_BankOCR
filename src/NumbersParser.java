@@ -89,7 +89,7 @@ public class NumbersParser {
 		for (int i = 0; i < 3; i++) {
 			String line = tok.nextToken();
 			for (int j=0 ; j<qtdDigits ; j++) {
-				lines[j][i] = line.substring();
+				lines[j][i] = line.substring(0,1);
 			}
 		}		
 		
