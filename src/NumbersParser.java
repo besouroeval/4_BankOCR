@@ -13,7 +13,7 @@ public class NumbersParser {
 			position *= 10;
 		}
 		
-		return parseOneDigit(lines);
+		return parsed;
 		
 	}
 
