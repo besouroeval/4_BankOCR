@@ -13,3 +13,8 @@ FileOpenedAction 1288199276138 NumbersParser.java 33 0 0 0
 FileOpenedAction 1288199280800 NumbersParser.java 33 0 0 0
 RefactoringAction 1288199280858 NumbersParser.java ADD static Object parse(String) METHOD
 EditAction 1288199286933 NumbersParser.java 91 1 1 0
+CompilationAction 1288199287161 NumbersParsingTest.java
+CompilationAction 1288199331104 NumbersParsingTest.java
+UnitTestCaseAction 1288199341813 NumbersParsingTest.java FAIL
+UnitTestSessionAction 1288199341814 NumbersParsingTest.java FAIL
+EditAction 1288199347744 NumbersParsingTest.java 263 1 2 1

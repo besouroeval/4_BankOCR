@@ -8,7 +8,10 @@ public class NumbersParsingTest {
 	@Test
 	public void shouldParse1() {
 		
-		String number;
+		String number = "   \n" 
+					  + "  |\n"
+					  + "  |\n";
+		
 		Assert.assertEquals(1, NumbersParser.parse(number));
 		
 	}
