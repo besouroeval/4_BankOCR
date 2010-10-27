@@ -246,3 +246,8 @@ CompilationAction 1288201987535 NumbersParser.java
 CompilationAction 1288201991667 NumbersParser.java
 EditAction 1288202002086 NumbersParser.java 1395 3 12 0
 EditAction 1288202018263 NumbersParser.java 1381 3 12 0
+UnitTestCaseAction 1288202021550 NumbersParsingTest.java OK
+UnitTestSessionAction 1288202021550 NumbersParsingTest.java OK
+UnitTestCaseAction 1288202030046 NumbersParsingTest.java OK
+UnitTestSessionAction 1288202030047 NumbersParsingTest.java OK
+EditAction 1288202038298 NumbersParsingTest.java 1962 11 22 11

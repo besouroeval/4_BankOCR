@@ -4,7 +4,6 @@ public class NumbersParser {
 	public static int parse(String number) {
 		
 		String[][] digits = breakeLines(number);
-		String[] lines = digits[0];
 		
 		int position = 1;
 		int parsed = 0;
