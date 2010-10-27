@@ -10,7 +10,7 @@ public class NumbersParser {
 		int position = 1;
 		int parsed = 0;
 		for (int i = digits.length-1; i >= 0; i--) {
-			parsed = position * parseOneDigit(digits[i]);
+			parsed += position * parseOneDigit(digits[i]);
 			position *= 10;
 		}
 		
@@ -89,7 +89,7 @@ public class NumbersParser {
 		for (int i = 0; i < 3; i++) {
 			String line = tok.nextToken();
 			for (int j=0 ; j<qtdDigits ; j++) {
-				lines[j][i] = line.substring(0+3j,1);
+				lines[j][i] = line.substring(0+3*j,3+3*j);
 			}
 		}		
 		

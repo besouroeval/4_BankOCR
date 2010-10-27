@@ -282,3 +282,8 @@ EditAction 1288202571476 NumbersParser.java 1709 3 12 0
 CompilationAction 1288202571715 NumbersParser.java
 EditAction 1288202574444 NumbersParser.java 1712 3 12 0
 EditAction 1288202588020 NumbersParser.java 1715 3 6 0
+CompilationAction 1288202588198 NumbersParser.java
+CompilationAction 1288202605803 NumbersParser.java
+UnitTestCaseAction 1288202608512 NumbersParsingTest.java FAIL
+UnitTestSessionAction 1288202608513 NumbersParsingTest.java FAIL
+EditAction 1288202637279 NumbersParser.java 1721 3 12 0
