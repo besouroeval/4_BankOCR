@@ -85,7 +85,7 @@ public class NumbersParser {
 		
 		for (int i = 0; i < 3; i++) {
 			for (int j=0 ; j<qtdDigits ; j++) {
-				lines[i][0] = number.substring(0+3*i, 3+3*i);
+				lines[j][i] = number.substring(0+3*i, 3+3*i);
 			}
 		}		
 		
