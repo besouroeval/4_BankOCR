@@ -26,3 +26,4 @@ RefactoringAction 1288199362807 NumbersParsingTest.java ADD void shouldParse1()/
 RefactoringAction 1288199366321 NumbersParsingTest.java RENAME shouldParse1()/2=>void shouldParse2() METHOD
 EditAction 1288199367611 NumbersParsingTest.java 429 2 4 2
 EditAction 1288199369629 NumbersParsingTest.java 429 2 4 2
+EditAction 1288199390849 NumbersParsingTest.java 429 2 4 2

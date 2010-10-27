@@ -19,9 +19,9 @@ public class NumbersParsingTest {
 	@Test
 	public void shouldParse2() {
 		
-		String number = "   \n" 
-					  + "  |\n"
-					  + "  |\n";
+		String number = " _ \n" 
+					  + " _|\n"
+					  + "|_ \n";
 		
 		Assert.assertEquals(2, NumbersParser.parse(number));
 		
