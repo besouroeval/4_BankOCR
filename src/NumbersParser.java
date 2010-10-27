@@ -17,23 +17,22 @@ public class NumbersParser {
 					
 				} else if (lines[2].charAt(0) == '|') {
 							
-						if (lines[1].charAt(2) == '|') {
-							return 8;
-							
-						} else {
-							return 6;
-							
-						}
-							
-					} else if (lines[1].charAt(0) == '|') {
-						return 5;
+					if (lines[1].charAt(2) == '|') {
+						return 8;
 						
 					} else {
-						return 3;
+						return 6;
 						
 					}
+						
+				} else if (lines[1].charAt(0) == '|') {
+					return 5;
+					
+				} else {
+					return 3;
 					
 				}
+				
 				
 				
 			}

@@ -149,3 +149,12 @@ UnitTestCaseAction 1288200915147 NumbersParsingTest.java OK
 UnitTestSessionAction 1288200915148 NumbersParsingTest.java OK
 EditAction 1288200924026 NumbersParser.java 957 2 7 0
 EditAction 1288200939134 NumbersParser.java 944 2 7 0
+CompilationAction 1288200939356 NumbersParser.java
+CompilationAction 1288200939356 NumbersParser.java
+CompilationAction 1288200939356 NumbersParser.java
+CompilationAction 1288200939357 NumbersParser.java
+CompilationAction 1288200943715 NumbersParser.java
+CompilationAction 1288200943715 NumbersParser.java
+CompilationAction 1288200943715 NumbersParser.java
+CompilationAction 1288200943715 NumbersParser.java
+EditAction 1288200959665 NumbersParser.java 922 2 7 0
