@@ -8,11 +8,11 @@ public class NumbersParser {
 		if (lines[0].charAt(1) == '_') {
 			
 			if (lines[1].charAt(1) == ' ') {
-				if (lines[1].charAt(1) == ' ') {
+				if (lines[2].charAt(1) == ' ') {
 					return 7;
 					
 				} else {
-					return 7;
+					return 0;
 					
 				}
 					
