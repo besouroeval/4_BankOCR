@@ -118,9 +118,9 @@ public class NumbersParsingTest {
 	@Test
 	public void shouldParseTwoDigits() {
 		
-		String number = " _ \n" 
-			+ "| |\n"
-			+ "|_|\n";
+		String number = " _  _ \n" 
+					  + "|_||_|\n"
+					  + "|_||_|\n";
 		
 		Assert.assertEquals(0, NumbersParser.parse(number));
 		
